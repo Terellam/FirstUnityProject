@@ -1,1 +1,3 @@
 Je tape ce texte uniquement pour tester si git fonctionne correctement
+
+Ajout de la fonction pour le main
